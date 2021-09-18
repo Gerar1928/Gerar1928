@@ -4,8 +4,6 @@
 I am a passionate Full Stack Software Developer who is looking forward to growing professionally in the software development industry. Also, I am flexible, reliable and possess excellent time keeping skills. I am a mature team worker and adaptable to all challenging situations and being able to work well both in a team environment as well as using own initiative.
 
 ## Technologies 
-
-### Programming Languages 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -29,3 +27,6 @@ I am a passionate Full Stack Software Developer who is looking forward to growin
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Contact me
+For more information you can visit my GitHub profile at ![https://www.linkedin.com/in/gerar-almonte-25a60a200/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) or email me at Gerar1928@gmail.com.
